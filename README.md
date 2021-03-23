@@ -1,5 +1,5 @@
-# Contactless-fingerprint-capturing
-Segmenting fingertips for finger print scanning
+# Contactless-fingerprint-capturing 
+Segmenting fingertips for finger print scanning (inprogress)
 
 Skin colour based hand segmentation!
 Reference:
