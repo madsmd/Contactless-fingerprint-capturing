@@ -5,7 +5,6 @@
 ##using opencv  and python 2.7.5
 ##December 2019
 ##Mahesh M Dhananjaya
-##SRH University Heidelberg
 
 
 from __future__ import print_function
