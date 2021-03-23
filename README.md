@@ -11,8 +11,8 @@ Program algorithm:
 3. Create bounding boxes around each fingertip
 
 Next Steps:
-4. enhance the quality of the finger tip
-5. compare the fingerprints with the database.
+1. enhance the quality of the finger tip
+2. compare the fingerprints with the database.
 
 
 Skintone Thresholding using the reference paper:
@@ -26,6 +26,7 @@ Skintone Thresholding using the reference paper:
 6. Fine adjustments can be done using a track bar.
 
 Sample output:
+
 roi and roi1:
 Filtering the blobs after thresholding:
 The area of all the blobs are calculated and the largest area is selected, on the assumption that the hand is the largest blob of the captured image.
